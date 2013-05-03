@@ -28,4 +28,4 @@ Qualitätsstufen:
 * **niedrig:**
   * simplify tolerance: 0,009
   * Knoten: von 183.345 auf 40.433 reduziert (87,67 % weniger)
-  * Dateigröße: von 8,1 MB auf 1,9 MB reduziert (86,42 % weniger)
+  * Dateigröße: von 8,1 MB auf 1,1 MB reduziert (86,42 % weniger)
