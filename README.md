@@ -3,9 +3,12 @@ deutschlandGeoJSON
 
 Administrative Grenzen Deutschlands im GeoJSON-Format in unterschiedlichen Qualitätsstufen.
 
-Daten-Quelle: [GIS-DATA](http://www.diva-gis.org/gdata)
+---
 
-Umgesetzt mit [Quantum GIS](http://www.qgis.org/), gute Anregung durch [dieses Tutorial](http://oscarvillarreal.com/2012/07/12/create-any-map-of-the-world-in-svg/).
+## Credits
+
+* Daten-Quelle: [GIS-DATA](http://www.diva-gis.org/gdata)
+* Umgesetzt mit [Quantum GIS](http://www.qgis.org/), gute Anregung durch [dieses Tutorial](http://oscarvillarreal.com/2012/07/12/create-any-map-of-the-world-in-svg/).
 
 ## Deutschland
 
