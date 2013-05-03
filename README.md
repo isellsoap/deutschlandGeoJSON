@@ -5,7 +5,7 @@ Administrative Grenzen Deutschlands im GeoJSON-Format in unterschiedlichen Quali
 
 ---
 
-Der erschreckende Mangel an vernünftigen Geo-Koordinaten von Deutschland (inklusive Bundesländern, Regierungsbezirken und Kreisen) im praktischen [GeoJSON-Format](http://www.geojson.org/) dürfte mit diesem Repository behoben sein. Viel Spaß damit.
+Der erschreckende Mangel an vernünftigen Geo-Koordinaten von Deutschland (inklusive Bundesländern, Regierungsbezirken und Kreisen) im praktischen [GeoJSON-Format](http://www.geojson.org/) dürfte mit diesem Repository behoben sein. Wie man bei Betrachtung der Screenshots sehen kann, lassen sich auch mit geringeren Qualitätsstufen sehr gute Ergebnisse erzielen.
 
 ## Credits
 
