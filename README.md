@@ -5,6 +5,12 @@ Administrative borders of Germany in GeoJSON format in different quality levels.
 
 ---
 
+## Translations
+
+- [German](https://github.com/isellsoap/deutschlandGeoJSON/blob/master/README.de.md)
+
+---
+
 The frightening lack of reasonable geo-coordinates of Germany (including states, districts, and counties) in the practical [GeoJSON format](http://www.geojson.org/) should be resolved by this repository. As you can see from the screenshots, you can achieve very good results even with reduced quality levels.
 
 ## Credits
