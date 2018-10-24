@@ -105,8 +105,8 @@ Der erschreckende Mangel an vernünftigen Geo-Koordinaten von Deutschland (inklu
 ![Screenshot niedrige Qualität](/3_regierungsbezirke/4_niedrig.png)
 
 * simplify tolerance: 0,01
-* Knoten: von 114.777 auf 7.043 reduziert (93,86 % weniger)
-* Dateigröße: von **5 MB** auf **101 KB** reduziert (97,98 % weniger)
+* Knoten: von 114.777 auf 7.344 reduziert (93,6 % weniger)
+* Dateigröße: von **5 MB** auf **333 KB** reduziert (93,34 % weniger)
 
 ## Kreise
 
