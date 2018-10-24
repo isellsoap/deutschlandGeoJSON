@@ -109,8 +109,8 @@ The frightening lack of reasonable geo-coordinates of Germany (including states,
 ![Screenshot low quality](/3_regierungsbezirke/4_niedrig.png)
 
 * simplify tolerance: 0,01
-* points: reduced from 114.777 to 7.043 (93,86 % less)
-* file size: reduced from **5 MB** to **101 KB** (97,98 % less)
+* points: reduced from 114.777 to 7.344 (93.6 % less)
+* file size: reduced from **5 MB** to **333 KB** (93,34 % less)
 
 ## Counties
 
